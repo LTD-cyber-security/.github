@@ -87,4 +87,4 @@ src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40"
 <a href=""><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 </p>
 
-<a href="https://github.com/CommunityPro/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+Community+Organization" target="_blank"><img src="https://user-images.githubusercontent.com/62628408/147912042-4388b29f-70d1-4928-a336-c9ea3cd991e6.png" alt="communitypro welcome image"></a>
+<a href="https://github.com/LTD-cyber-security/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization" target="_blank"><img src="https://user-images.githubusercontent.com/62628408/147912042-4388b29f-70d1-4928-a336-c9ea3cd991e6.png" alt="communitypro welcome image"></a>
