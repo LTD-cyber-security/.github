@@ -1,7 +1,5 @@
-![Logo do R](https://media-exp1.licdn.com/dms/image/C4D22AQHpcLV1gphWyA/feedshare-shrink_2048_1536/0/1663859028886?e=1667433600&v=beta&t=6rYfgyDtgV_oak1k6Sike_iZWIBsrCjCm5i5BVbuQr4)
-
 <!-- markdownlint-disable-next-line -->
-<p align="center"><a href="https://devprotocol.xyz/"><img src="https://raw.githubusercontent.com/dev-protocol/.github/main/assets/Dev--animated.gif" width="20%"></a></p>
+<p align="center"><a href="https://devprotocol.xyz/"><img src="https://protejaseuidoso.online/img/golpes/IA/0_0%20(2).png" width="20%"></a></p>
 
 <h3 align="center">
 🎉 Welcome to LTD-cyber-security Community 🎉
